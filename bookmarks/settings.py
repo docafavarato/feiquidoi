@@ -132,11 +132,11 @@ MEDIA_ROOT = os.path.join(BASE_DIR, 'media/')
 
 EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 
-SOCIAL_AUTH_FACEBOOK_KEY = '662003131697130'
-SOCIAL_AUTH_FACEBOOK_SECRET = '7affe0f38a74db3eed7baab1feda2095'
+SOCIAL_AUTH_FACEBOOK_KEY = ''
+SOCIAL_AUTH_FACEBOOK_SECRET = ''
 
-SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = '962825998006-p0en95g7tcv7si3t8fi9pug6mi9m8rqe.apps.googleusercontent.com'
-SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = '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'
+SOCIAL_AUTH_GOOGLE_OAUTH2_KEY = ''
+SOCIAL_AUTH_GOOGLE_OAUTH2_SECRET = ''
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/3.1/howto/static-files/
 
